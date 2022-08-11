@@ -1,1 +1,25 @@
-/* styles go here */
+input {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.cats {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.personal__info {
+  margin-bottom: 20px;
+}
+
+.registration {
+  margin-bottom: 20px;
+}
+
+.fact {
+  margin-bottom: 20px;
+}
+
+.info {
+  margin-bottom: 20px;
+}
